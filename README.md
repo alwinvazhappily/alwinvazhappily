@@ -1,5 +1,14 @@
 ## Hi there, I'm Alwin Vazhappilly 👋
 
+[![LinkedIn](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fjahswill-dev.web.app)]([https://www.linkedin.com/in/jahswill-essien-9b0221168/](https://www.linkedin.com/company/74592104/))
+<a href="mailto:alwinthedeveloper@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+A passionate Flutter developer with 6+ years of experience in crafting high-performance, visually
+appealing, and functional mobile applications. I started my journey in mobile development with Android and iOS, but
+when Flutter launched its stable version, I fully embraced it and have been developing with it ever since.
+
 <!--
 **alwinvazhappily/alwinvazhappily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
